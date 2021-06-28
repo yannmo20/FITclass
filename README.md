@@ -6,5 +6,4 @@ Adiitionally, some functionalities are provided in a separate `FITclass_utils.ip
 
 This notebook was created using the Databricks Community Edition. Therefore, some plots in the notebook were directly visualized by the databricks functionalities of PySpark dataframes. Special thanks to the authors and creators of the FitRec dataset [https://sites.google.com/eng.ucsd.edu/fitrec-project/home](https://sites.google.com/eng.ucsd.edu/fitrec-project/home).
 
-This project was created as part of the lecture _Big Data Computing_, summer term 2020/2021 at Sapienza University of Rome. 
-Yannick Moell, 2021
+This project was created as part of the lecture _Big Data Computing_, summer term 2020/2021 at Sapienza University of Rome.
